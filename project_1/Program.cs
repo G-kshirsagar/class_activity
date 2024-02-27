@@ -10,7 +10,7 @@ namespace Project01_Introduction
         static void Main(string[] args)
         {
             // example 0 - first program
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hiiii");
             // Console.ReadKey();
             // Debug.WriteLine("Hello World!");
             // obtaining user input
